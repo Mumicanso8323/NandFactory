@@ -1,0 +1,74 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9ea1e5c8c19f8ac4c8bdf4b210abe9a6, type: 3}
+  m_Name: cc-29Palette
+  m_EditorClassIdentifier: Assembly-CSharp::PaletteAsset
+  colors:
+  - serializedVersion: 2
+    rgba: 4293259506
+  - serializedVersion: 2
+    rgba: 4290360760
+  - serializedVersion: 2
+    rgba: 4287136134
+  - serializedVersion: 2
+    rgba: 4284834660
+  - serializedVersion: 2
+    rgba: 4283384901
+  - serializedVersion: 2
+    rgba: 4283971642
+  - serializedVersion: 2
+    rgba: 4280492321
+  - serializedVersion: 2
+    rgba: 4282526517
+  - serializedVersion: 2
+    rgba: 4285154115
+  - serializedVersion: 2
+    rgba: 4291461195
+  - serializedVersion: 2
+    rgba: 4292067944
+  - serializedVersion: 2
+    rgba: 4291288226
+  - serializedVersion: 2
+    rgba: 4288602605
+  - serializedVersion: 2
+    rgba: 4285046995
+  - serializedVersion: 2
+    rgba: 4283585204
+  - serializedVersion: 2
+    rgba: 4285420394
+  - serializedVersion: 2
+    rgba: 4283973963
+  - serializedVersion: 2
+    rgba: 4282009984
+  - serializedVersion: 2
+    rgba: 4284185511
+  - serializedVersion: 2
+    rgba: 4290039525
+  - serializedVersion: 2
+    rgba: 4285060034
+  - serializedVersion: 2
+    rgba: 4284526730
+  - serializedVersion: 2
+    rgba: 4286151510
+  - serializedVersion: 2
+    rgba: 4283062350
+  - serializedVersion: 2
+    rgba: 4282610299
+  - serializedVersion: 2
+    rgba: 4286493874
+  - serializedVersion: 2
+    rgba: 4291086573
+  - serializedVersion: 2
+    rgba: 4291529423
+  - serializedVersion: 2
+    rgba: 4285158751
+  stripTexture: {fileID: 2800000, guid: aa8398d89100bf14b9f6d464fc64b796, type: 3}
