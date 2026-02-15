@@ -653,13 +653,6 @@ MonoBehaviour:
     - {fileID: 611721293, guid: 227728fbe48523e4ebe0263fa3ac42bc, type: 3}
     - {fileID: -746723547, guid: 227728fbe48523e4ebe0263fa3ac42bc, type: 3}
     - {fileID: -1286374043, guid: 227728fbe48523e4ebe0263fa3ac42bc, type: 3}
-  - key: connecter
-    frames:
-    - {fileID: 430330692, guid: 227728fbe48523e4ebe0263fa3ac42bc, type: 3}
-    - {fileID: 1982999427, guid: 227728fbe48523e4ebe0263fa3ac42bc, type: 3}
-    - {fileID: -1658486986, guid: 227728fbe48523e4ebe0263fa3ac42bc, type: 3}
-    - {fileID: 1211483793, guid: 227728fbe48523e4ebe0263fa3ac42bc, type: 3}
-    - {fileID: -1886458059, guid: 227728fbe48523e4ebe0263fa3ac42bc, type: 3}
   - key: input
     frames:
     - {fileID: -1767777665, guid: 3b1a672ecaa533e4d8cbce5b0e9f4f7f, type: 3}
@@ -690,6 +683,18 @@ MonoBehaviour:
   - key: stdout
     frames:
     - {fileID: 1285272997, guid: 50555d2e600e0b8469e5c75ea7824ffc, type: 3}
+  - key: front
+    frames:
+    - {fileID: -209947060, guid: 1c91a717a7d44e44a9b006b22c9e57f3, type: 3}
+  - key: right
+    frames:
+    - {fileID: 1311558462, guid: 1c91a717a7d44e44a9b006b22c9e57f3, type: 3}
+  - key: 8bitout
+    frames:
+    - {fileID: 1334267748, guid: 1c91a717a7d44e44a9b006b22c9e57f3, type: 3}
+  - key: 8bitin
+    frames:
+    - {fileID: -1787451487, guid: 1c91a717a7d44e44a9b006b22c9e57f3, type: 3}
   setNativeSizeOnChange: 0
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
